@@ -16,10 +16,10 @@
 
 ### 📚 What I’m Learning 
 
-- 🌱**Coding Basics**: Taking my first steps in programming through my courses.[[Drawing flags using python]](https://github.com/yoonU-0v0/yoonU-0v0/blob/main/%EC%9C%A4%ED%98%95%EC%A3%BC_20242681_Code.py)
+- 🌱**Coding Basics**: Taking my first steps in programming through my courses.<br>[[Drawing flags using python]](https://github.com/yoonU-0v0/yoonU-0v0/blob/main/%EC%9C%A4%ED%98%95%EC%A3%BC_20242681_Code.py)<br>
+[[Practice c++]](https://github.com/yoonU-0v0/yoonU-0v0/tree/main/c%2B%2B%20%EB%AA%A8%EC%9D%8C)
 
-- 👩‍💻**AR/VR Projects**: Working with CoSpaces to create interactive experiences.
-  [[VR Rapunzel Game]](https://edu.cospaces.io/RLR-AHQ)
+- 👩‍💻**AR/VR Projects**: Working with CoSpaces to create interactive experiences.<br>[[VR Rapunzel Game]](https://edu.cospaces.io/RLR-AHQ)
 
 - 🤝**Creative Tools**: Experienced in video production and image editing using Photoshop and Illustrator.
 
